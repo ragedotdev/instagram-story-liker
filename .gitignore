@@ -1,0 +1,8 @@
+.env
+__pycache__
+lib
+bin
+include
+db.sqlite3
+build
+exe
