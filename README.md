@@ -16,6 +16,6 @@ Rare action blocks
 
 3. Set proxy in .env file (optional)
 
-4. python3 main.py
+4. Run this command: pip install -r requirements.txt && python3 main.py
 
 
